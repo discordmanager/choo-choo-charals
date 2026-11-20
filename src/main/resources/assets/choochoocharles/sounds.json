@@ -1,0 +1,20 @@
+{
+  "normal_train": {
+    "subtitle": "subtitles.choochoocharles.normal_train",
+    "sounds": [
+      {
+        "name": "choochoocharles:normal_train",
+        "stream": false
+      }
+    ]
+  },
+  "charles_death": {
+    "subtitle": "subtitles.choochoocharles.charles_death",
+    "sounds": [
+      {
+        "name": "choochoocharles:charles_death",
+        "stream": false
+      }
+    ]
+  }
+}
